@@ -12,3 +12,4 @@ monitorianota = float (input ("nota: "))
 print ("amo a monitoria!!!")
 contabasica = 1 + 1 
 print(f"{contabasica}")
+print("votar monitoria para aula de tecpro")
